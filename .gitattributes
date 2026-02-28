@@ -1,0 +1,45 @@
+# EOL
+* text=auto eol=lf
+
+# Godot
+*.gd         text eol=lf
+*.cs         text eol=lf
+*.tscn       text eol=lf
+*.tres       text eol=lf
+*.shader     text eol=lf
+*.json       text eol=lf
+*.yml        text eol=lf
+*.yaml       text eol=lf
+*.md         text eol=lf
+*.sln        text eol=lf
+*.csproj     text eol=lf
+*.props      text eol=lf
+*.targets    text eol=lf
+*.editorconfig text eol=lf
+*.import     text eol=lf
+
+# Windows
+*.bat        text eol=crlf
+*.cmd        text eol=crlf
+*.ps1        text eol=crlf
+
+# Assets
+*.png        binary
+*.jpg        binary
+*.jpeg       binary
+*.webp       binary
+*.gif        binary
+*.bmp        binary
+*.ico        binary
+*.wav        binary
+*.ogg        binary
+*.mp3        binary
+*.flac       binary
+*.ttf        binary
+*.otf        binary
+*.glb        binary
+*.gltf       binary
+*.fbx        binary
+*.blend      binary
+*.dll        binary
+*.exe        binary
